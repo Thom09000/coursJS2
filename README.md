@@ -1,1 +1,2 @@
 # coursJS2
+Thomas
